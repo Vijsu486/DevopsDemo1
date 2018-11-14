@@ -2,5 +2,8 @@ class A{
 
 void welcome()
 void bye()
-void hi()
+void hi(){
+
+system.out.println("hi how are you")
+}
 }
