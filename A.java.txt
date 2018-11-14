@@ -2,4 +2,5 @@ class A{
 
 void welcome()
 void bye()
+void hi()
 }
