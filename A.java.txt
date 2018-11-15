@@ -3,7 +3,7 @@ class A{
 void welcome()
 void bye()
 void hi(){
-
+// added by some other
 system.out.println("hi how are you")
 int x+y;
 }
